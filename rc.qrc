@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/image">
+        <file alias="Building">_image/building.png</file>
+        <file alias="Infantry">_image/infantry.png</file>
+        <file alias="Vehicle">_image/vehicle.png</file>
+        <file alias="Aircraft">_image/aircraft.png</file>
+        <file alias="Weapon">_image/weapon.png</file>
+        <file alias="Projectile">_image/projectile.png</file>
+        <file alias="Warhead">_image/warhead.png</file>
+        <file alias="Animation">_image/animation.png</file>
+
+        <file alias="Open">_image/open.png</file>
+        <file alias="Format">_image/format.png</file>
+        <file alias="Close">_image/close.png</file>
+        <file alias="Quit">_image/quit.png</file>
+        <file alias="CloseAll_Main">_image/closeallmain.png</file>
+        <file alias="CloseAll_Right">_image/closeallright.png</file>
+        <file alias="TabAll_Right">_image/taballright.png</file>
+        <file alias="TwoCol_Right">_image/twocolright.png</file>
+        <file alias="Export">_image/export.png</file>
+        <file alias="Import">_image/import.png</file>
+        <file alias="Save">_image/save.png</file>
+        <file alias="Add">_image/add.png</file>
+        <file alias="Rename">_image/rename.png</file>
+        <file alias="Copy">_image/copy.png</file>
+        <file alias="Delete">_image/delete.png</file>
+    </qresource>
+</RCC>
